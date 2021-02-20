@@ -1,0 +1,10 @@
+author: {name: Olivier Hoareau, email: oha@greenberets.io}
+company: ohoareau
+project_prefix: ohoareau
+project_name: libs-react
+project_description: Olivier Hoareau's React Libraries/Components (Typescript)
+project_git_url: git@github.com:ohoareau/libs-react.git
+npm_scope: ohoareau
+scm: github
+license: MIT
+node_version: 14.3.0
