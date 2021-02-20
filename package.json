@@ -1,5 +1,5 @@
 {
-  "name": "@ohoareau/libs",
+  "name": "@ohoareau/libs-react",
   "version": "0.0.0",
   "description": "JS Libraries by Olivier Hoareau",
   "author": "Olivier Hoareau <oha+oss@greenberets.io>",
@@ -12,19 +12,18 @@
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^3.20.2",
-    "jest": "^25.3.0",
-    "typescript": "^3.8.3",
-    "@types/node": "^13.11.1",
-    "aws-sdk": "^2.656.0",
-    "@types/jest": "^25.2.1",
-    "ts-jest": "^25.3.1",
-    "@testing-library/jest-dom": "^5.5.0",
-    "@testing-library/react": "^10.0.2",
-    "@testing-library/user-event": "^10.0.1",
-    "@testing-library/dom": "^7.2.1",
-    "@genjs/genjs": "^0.3.4",
-    "@genjs/genjs-plugin-monorepo-js-libs": "^0.3.4",
-    "@genjs/genjs-plugin-cicd-github": "^0.3.6"
+    "lerna": "^3.22.1",
+    "jest": "^26.6.3",
+    "typescript": "^4.1.5",
+    "aws-sdk": "^2.848.0",
+    "@types/jest": "^26.0.20",
+    "ts-jest": "^26.5.1",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.7.1",
+    "@testing-library/dom": "^7.29.6",
+    "@genjs/genjs": "^0.3.12",
+    "@genjs/genjs-plugin-monorepo-js-libs": "^0.3.15",
+    "@genjs/genjs-plugin-cicd-github": "^0.3.14"
   }
 }
